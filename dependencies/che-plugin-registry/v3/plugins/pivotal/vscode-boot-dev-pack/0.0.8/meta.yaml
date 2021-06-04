@@ -1,0 +1,16 @@
+publisher: pivotal
+apiVersion: v2
+version: 0.0.8
+type: VS Code extension
+name: vscode-boot-dev-pack
+displayName: Spring Boot Extension Pack
+title: Spring Boot Extension Pack
+description: A collection of extensions for developing Spring Boot applications
+icon: /v3/images/pivotal-vscode-boot-dev-pack-vscode-icon.png
+category: Other
+repository: https://github.com/spring-projects/sts4
+firstPublicationDate: "2017-28-11"
+spec:
+  extensions:
+  - https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Pivotal/vsextensions/vscode-boot-dev-pack/0.0.8/vspackage
+latestUpdateDate: "2021-04-23"

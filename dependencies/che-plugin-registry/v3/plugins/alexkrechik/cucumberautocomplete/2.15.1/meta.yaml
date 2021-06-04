@@ -1,0 +1,16 @@
+publisher: alexkrechik
+apiVersion: v2
+version: 2.15.1
+type: VS Code extension
+name: cucumberautocomplete
+displayName: Cucumber AutoComplete
+title: VSCode Cucumber (Gherkin)
+description: This extension adds rich language support for the Cucumber (Gherkin) language to VS Code
+icon: /v3/images/alexkrechik-cucumberautocomplete-vscode-icon.png
+category: Language
+repository: https://github.com/alexkrechik/VSCucumberAutoComplete
+firstPublicationDate: "2019-12-02"
+spec:
+  extensions:
+  - https://marketplace.visualstudio.com/_apis/public/gallery/publishers/alexkrechik/vsextensions/cucumberautocomplete/2.15.1/vspackage
+latestUpdateDate: "2021-04-23"
