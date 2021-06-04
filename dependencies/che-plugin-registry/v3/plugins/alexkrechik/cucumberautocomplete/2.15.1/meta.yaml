@@ -13,4 +13,3 @@ firstPublicationDate: "2019-12-02"
 spec:
   extensions:
   - https://marketplace.visualstudio.com/_apis/public/gallery/publishers/alexkrechik/vsextensions/cucumberautocomplete/2.15.1/vspackage
-latestUpdateDate: "2021-04-23"

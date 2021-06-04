@@ -13,4 +13,3 @@ firstPublicationDate: "2017-28-11"
 spec:
   extensions:
   - https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Pivotal/vsextensions/vscode-boot-dev-pack/0.0.8/vspackage
-latestUpdateDate: "2021-04-23"
