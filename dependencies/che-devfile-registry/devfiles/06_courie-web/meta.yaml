@@ -1,0 +1,6 @@
+---
+displayName: Courie - Web
+description: The Courie Web frontend
+tags: ["Courie"]
+icon: /images/courie.png
+globalMemoryLimit: 1024Mi

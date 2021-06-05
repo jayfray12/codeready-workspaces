@@ -1,0 +1,6 @@
+---
+displayName: Courie - Driver Web
+description: The Courie Driver Web frontend
+tags: ["Courie"]
+icon: /images/courie.png
+globalMemoryLimit: 1024Mi

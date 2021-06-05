@@ -1,0 +1,6 @@
+---
+displayName: Courie - Driver Service
+description: The Courie Driver backend Service
+tags: ["Courie"]
+icon: /images/courie.png
+globalMemoryLimit: 1792Mi
