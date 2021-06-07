@@ -1,0 +1,6 @@
+---
+displayName: IntelliJ IDEA Community Edition
+description: IntelliJ IDEA Community Edition running on the Web with noVNC
+tags: ["ide", "intellij"]
+icon: https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png
+globalMemoryLimit: 2048Mi
